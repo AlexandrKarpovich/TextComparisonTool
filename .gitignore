@@ -1,0 +1,25 @@
+# ============================
+# OS Files
+# ============================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+*.swo
+*~
+
+# ============================
+# IDE / Editor Files
+# ============================
+.vscode/
+.idea/
+*.iml
+.vs/
+*.sublime-*
+.project
+.classpath
+.settings/
+*.code-workspace
+
+.osp
